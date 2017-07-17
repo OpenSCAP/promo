@@ -11,9 +11,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="744.92407"
+   width="676.08826"
    height="243.48753"
-   viewBox="0 0 698.36632 228.26956"
+   viewBox="0 0 633.83274 228.26956"
    id="Layer_1"
    xml:space="preserve"
    inkscape:version="0.92+devel unknown"
@@ -33,8 +33,8 @@
      id="namedview4160"
      showgrid="false"
      inkscape:zoom="1.1508333"
-     inkscape:cx="454.93167"
-     inkscape:cy="83.38268"
+     inkscape:cx="267.24158"
+     inkscape:cy="83.382683"
      inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
@@ -42,7 +42,7 @@
      inkscape:document-rotation="0"
      fit-margin-top="5"
      fit-margin-left="5"
-     fit-margin-right="5"
+     fit-margin-right="10"
      fit-margin-bottom="5" /><metadata
      id="metadata49"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -95,11 +95,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.5px;line-height:100%;font-family:Titillium;-inkscape-font-specification:Titillium;fill:#3a3b3b;fill-opacity:1;stroke:#3a3b3b;stroke-opacity:1">OpenSCAP</tspan><tspan
        sodipodi:role="line"
        x="233.57748"
-       y="187.24495"
+       y="187.12288"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:100%;font-family:Titillium;-inkscape-font-specification:Titillium;fill:#676767;fill-opacity:1;stroke:#676767;stroke-opacity:1"
        id="tspan5068">BASE</tspan></text>
 <g
-     transform="matrix(0.55503987,0,0,0.55503987,-4.5759933,-3.6532002)"
+     transform="matrix(0.55503987,0,0,0.55503987,-4.5759934,-3.6532002)"
      id="g14395"><g
        id="g4481-7"
        transform="matrix(1.5735188,0,0,1.5735188,-2.1924452,-2.0915756)"><path
@@ -139,7 +139,7 @@
      xml:space="preserve"
      id="flowRoot5070"
      style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     transform="translate(-5.3125069,-0.70211668)"><flowRegion
+     transform="translate(-5.3125069,-0.70211667)"><flowRegion
        id="flowRegion5072"><rect
          id="rect5074"
          width="155.53947"

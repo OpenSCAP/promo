@@ -11,9 +11,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="744.92407"
+   width="676.08826"
    height="243.48753"
-   viewBox="0 0 698.36632 228.26956"
+   viewBox="0 0 633.83274 228.26956"
    id="Layer_1"
    xml:space="preserve"
    inkscape:version="0.92+devel unknown"
@@ -33,8 +33,8 @@
      id="namedview4160"
      showgrid="false"
      inkscape:zoom="1.1508333"
-     inkscape:cx="454.93167"
-     inkscape:cy="83.382678"
+     inkscape:cx="267.24158"
+     inkscape:cy="83.382688"
      inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
@@ -42,7 +42,7 @@
      inkscape:document-rotation="0"
      fit-margin-top="5"
      fit-margin-bottom="5"
-     fit-margin-right="5"
+     fit-margin-right="10"
      fit-margin-left="5" /><metadata
      id="metadata49"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -116,7 +116,7 @@
          style="stop-color:#007eff;stop-opacity:1"
          offset="1" /></linearGradient></defs><g
      id="g5737"
-     transform="translate(-5.312507,-0.70211362)"><text
+     transform="translate(-5.312507,-0.7021136)"><text
        id="text4373"
        y="90.949997"
        x="238.88998"
@@ -129,7 +129,7 @@
          sodipodi:role="line">OpenSCAP</tspan><tspan
          id="tspan5068"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:100%;font-family:Titillium;-inkscape-font-specification:Titillium;fill:#676767;fill-opacity:1;stroke:#676767;stroke-opacity:1"
-         y="187.94707"
+         y="187.825"
          x="238.88998"
          sodipodi:role="line">DAEMON</tspan></text>
 <flowRoot
